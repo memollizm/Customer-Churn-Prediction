@@ -37,7 +37,7 @@ kullanıcı-adınız ve deponuzu kendi GitHub kullanıcı adınız ve depo adın
 <br>
 
 ## !! Dosya Yapısı !!
-- Churn_Modelling.csv: Eğitim ve test iç in kullanılan veri kümesi. <br>
+- Churn_Modelling.csv: Eğitim ve test için kullanılan veri kümesi. <br>
 - kodunuz.py: Yapay sinir ağı uygulamasını içeren Python betiği. <br>
 - README.md: Projeye dair dokümantasyon. <br>
 <br>
