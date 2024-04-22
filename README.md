@@ -1,4 +1,4 @@
-<h1 align="center"><b>Yapay Sinir Ağları ile Müşteri Kaybı Tahmini</b> </h1> 
+<h1 align="center"><b>Yapay Sinir Ağları ile Müşter Kaybı Tahmini</b> </h1> 
 
 <h1 align="left"><b>Genel Bakış</b> </h1>
 
